@@ -158,6 +158,78 @@ border: 1px solid #b71c1c !important;
 
 
 
+.hs_indx_title_right_wrapper li:last-child {
+color: white !important;
+}
+.hs_indx_title_right_wrapper li:last-child:hover {
+text-decoration: underline !important;
+}
+
+.hs_about_progress_cont_left .accordionFifteen .panel .panel-heading a {
+background: #b71c1c !important;
+}
+.hs_astro_img_cont_wrapper li:last-child {
+color: white !important;
+}
+.hs_astro_img_bottom_cont li a:hover {
+color: white;
+}
+
+.hs_contact_indx_form_btn li a {
+background: #b71c1c !important;
+}
+.hs_contact_indx_form_btn li a:hover {
+color: #b71c1c !important;
+border: 1px solid #b71c1c !important;
+background: none !important;
+}
+
+.hs_shop_tabs_sec_wrapper .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+background: #b71c1c !important;
+}
+.hs_shop_tabs_sec_wrapper .nav > li > a:hover, .nav > li > a:focus {
+background: #b71c1c !important;
+}
+
+.hs_kd_first_sec_cont_wrapper li {
+color:#b71c1c !important;
+}
+.hs_kd_first_sec_wrapper h4 span {
+background: #b71c1c !important;
+}
+.hs_blog_right_search_wrapper button {
+background: #b71c1c !important;
+}
+.hs_blog_right_search_wrapper input:hover, .hs_blog_right_search_wrapper input:focus {
+border: 1px solid #b71c1c !important;
+color: white !important;
+}
+.hs_blog_right_cate_list_heading_wrapper {
+background: #b71c1c !important;
+}
+.hs_kd_right_first_sec_heading {
+
+background: #b71c1c !important;
+}
+.hs_kd_first_sec_cont_wrapper p span {
+color: #b71c1c !important;
+}
+.hs_shop_prodt_img_cont_wrapper h3 {
+color: #b71c1c !important;
+}
+.hs_shop_prodt_img_cont_wrapper h3 del {
+color: white !important;
+}
+.hs_shop_prodt_img_wrapper a {
+background: #b71c1c !important;
+}
+.hs_shop_prodt_img_wrapper a:hover {
+background: white !important;
+border: 1px solid #b71c1c !important;
+color: #b71c1c !important;
+}
+
+
 
 
 
